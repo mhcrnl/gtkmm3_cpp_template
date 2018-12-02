@@ -6986,3 +6986,26 @@
 	<sigc++/sigc++.h>
 	<gtkmm/scalebutton.h>
 
+1543741183 source:/home/mhcrnl/Desktop/2018Noe17/06gtkmm_cpp_template/main.cc
+	"Fereastra.h"
+	<gtkmm/application.h>
+
+1543740406 /home/mhcrnl/Desktop/2018Noe17/06gtkmm_cpp_template/include/Fereastra.h
+	<gtkmm/button.h>
+	<gtkmm/window.h>
+
+1543740998 source:/home/mhcrnl/Desktop/2018Noe17/06gtkmm_cpp_template/src/Fereastra.cpp
+	"Fereastra.h"
+	<iostream>
+
+1543741183 source:/home/mhcrnl/Desktop/2018Noe17/07gtkmm_cpp_convertor/main.cc
+	"Fereastra.h"
+	<gtkmm/application.h>
+
+1543744840 /home/mhcrnl/Desktop/2018Noe17/07gtkmm_cpp_convertor/include/Fereastra.h
+	<gtkmm.h>
+
+1543746136 source:/home/mhcrnl/Desktop/2018Noe17/07gtkmm_cpp_convertor/src/Fereastra.cpp
+	"Fereastra.h"
+	<iostream>
+
